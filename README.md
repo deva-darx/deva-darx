@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @deva-darx
 - 👀 I’m interested in Development and Design
 - 🌱 I’m currently learning Full stack development
-- ⚡ Fun fact: My name is dev and my profession is also dev. so call me DEV.
+- ⚡ Fun fact: My name starts with dev and my profession is also dev.
